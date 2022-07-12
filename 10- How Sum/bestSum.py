@@ -1,6 +1,3 @@
-from itertools import combinations
-
-
 memo = {}
 
 def bestSum(targetSum, numbers):
